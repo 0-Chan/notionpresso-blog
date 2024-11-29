@@ -1,0 +1,729 @@
+{
+  "object": "page",
+  "id": "14d74d99-f245-80e8-8099-f22584c243bb",
+  "created_time": "2024-11-29T09:57:00.000Z",
+  "last_edited_time": "2024-11-29T10:12:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "workspace",
+    "workspace": true
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "1 시간 만에 노션과 Next.js로 블로그 만들기 (feat. NotionPresso) ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "1 시간 만에 노션과 Next.js로 블로그 만들기 (feat. NotionPresso) ",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/1-Next-js-feat-NotionPresso-14d74d99f24580e88099f22584c243bb",
+  "public_url": null,
+  "request_id": "a20b7683-f4de-472d-915d-20144c70b308",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "14d74d99-f245-805b-836e-d4a79ff616db",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:58:00.000Z",
+      "last_edited_time": "2024-11-29T09:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "개요",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "개요",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8068-8819-d5ccfd995686",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:58:00.000Z",
+      "last_edited_time": "2024-11-29T09:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "글쓰기 모임에 참석함",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "글쓰기 모임에 참석함",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-804c-a89c-d578e40c9024",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:58:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기존에 다양한 블로그를 써봤지만 결국 조금의 불편함으로 안쓰게됨",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기존에 다양한 블로그를 써봤지만 결국 조금의 불편함으로 안쓰게됨",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80df-b184-f2b1b47a3374",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그래서 블로그를 또! 만듬.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그래서 블로그를 또! 만듬.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-800c-b916-ebe8d331d2aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8049-bcc6-c65edd786d0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "노션프레소",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "노션프레소",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-802d-97bb-c03c45aee474",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8065-9a2a-fee45648814c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "왜 노션 프레소",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "왜 노션 프레소",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80cd-a242-df0e5230f26f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기술 아티클 보다가 오픈 소스 경험에 대해 이야기하는게 흥미로웠음",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기술 아티클 보다가 오픈 소스 경험에 대해 이야기하는게 흥미로웠음",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-801e-b8b7-f412ca6db489",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "당시에는 그냥 보고 지나갔었는데",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "당시에는 그냥 보고 지나갔었는데",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80b3-87d7-f5b559075f71",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T09:59:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아니, 글쓰기 모임에 메인테이너 분이 계시는 것 아니겠음?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아니, 글쓰기 모임에 메인테이너 분이 계시는 것 아니겠음?",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-806b-aca4-f2feefad71f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T10:00:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80c7-94c8-c498de09a21c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T10:00:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이건 운명이다 싶어서 시작함",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이건 운명이다 싶어서 시작함",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8016-88d2-c2079996f849",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T10:00:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "+",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "+",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8028-a9a7-cfd2208d9ff3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T10:00:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "코딩 초보자도 맨땅에 헤딩 할 수 있을 정도로 상세한 튜토리얼이 있어서 감명을 받고 안쓸 수가 없었음.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "코딩 초보자도 맨땅에 헤딩 할 수 있을 정도로 상세한 튜토리얼이 있어서 감명을 받고 안쓸 수가 없었음.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80fd-a648-e3f569d9c6e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T10:00:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8092-b299-db1b75d5aadb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T10:00:00.000Z",
+      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
