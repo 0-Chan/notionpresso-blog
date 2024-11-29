@@ -2,7 +2,7 @@
   "object": "page",
   "id": "14d74d99-f245-80e8-8099-f22584c243bb",
   "created_time": "2024-11-29T09:57:00.000Z",
-  "last_edited_time": "2024-11-29T10:12:00.000Z",
+  "last_edited_time": "2024-11-29T16:10:00.000Z",
   "created_by": {
     "object": "user",
     "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -46,7 +46,7 @@
   },
   "url": "https://www.notion.so/1-Next-js-feat-NotionPresso-14d74d99f24580e88099f22584c243bb",
   "public_url": null,
-  "request_id": "a20b7683-f4de-472d-915d-20144c70b308",
+  "request_id": "cd7cdcb9-cba7-4f62-a685-ac6ea7a7aa4a",
   "blocks": [
     {
       "object": "block",
@@ -56,7 +56,7 @@
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
       "created_time": "2024-11-29T09:58:00.000Z",
-      "last_edited_time": "2024-11-29T09:58:00.000Z",
+      "last_edited_time": "2024-11-29T16:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -96,13 +96,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-8068-8819-d5ccfd995686",
+      "id": "14d74d99-f245-80f8-ad19-df9bf92bf2d1",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:58:00.000Z",
-      "last_edited_time": "2024-11-29T09:58:00.000Z",
+      "created_time": "2024-11-29T13:33:00.000Z",
+      "last_edited_time": "2024-11-29T15:58:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -120,7 +120,7 @@
           {
             "type": "text",
             "text": {
-              "content": "글쓰기 모임에 참석함",
+              "content": "요즘 글쓰기 모임에 참여해서 주기적으로 글을 쓰려하고 있어요.",
               "link": null
             },
             "annotations": {
@@ -131,7 +131,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "글쓰기 모임에 참석함",
+            "plain_text": "요즘 글쓰기 모임에 참여해서 주기적으로 글을 쓰려하고 있어요.",
             "href": null
           }
         ],
@@ -141,13 +141,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-804c-a89c-d578e40c9024",
+      "id": "14d74d99-f245-8093-ad7a-f2bc925d2d09",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:58:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_time": "2024-11-29T13:39:00.000Z",
+      "last_edited_time": "2024-11-29T15:59:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -165,7 +165,7 @@
           {
             "type": "text",
             "text": {
-              "content": "기존에 다양한 블로그를 써봤지만 결국 조금의 불편함으로 안쓰게됨",
+              "content": "기존 블로그를 활용할까 고민했지만, 자잘한 불편함 때문에 새로운 방안을 찾게 보게됐습니다.",
               "link": null
             },
             "annotations": {
@@ -176,7 +176,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "기존에 다양한 블로그를 써봤지만 결국 조금의 불편함으로 안쓰게됨",
+            "plain_text": "기존 블로그를 활용할까 고민했지만, 자잘한 불편함 때문에 새로운 방안을 찾게 보게됐습니다.",
             "href": null
           }
         ],
@@ -186,13 +186,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-80df-b184-f2b1b47a3374",
+      "id": "14d74d99-f245-8066-95b8-fc684bf06506",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_time": "2024-11-29T13:54:00.000Z",
+      "last_edited_time": "2024-11-29T13:55:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -210,7 +210,7 @@
           {
             "type": "text",
             "text": {
-              "content": "그래서 블로그를 또! 만듬.",
+              "content": "그래서 결국! 블로그를 또 하나 만들게 됐습니다. 이번엔 ",
               "link": null
             },
             "annotations": {
@@ -221,68 +221,32 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "그래서 블로그를 또! 만듬.",
+            "plain_text": "그래서 결국! 블로그를 또 하나 만들게 됐습니다. 이번엔 ",
             "href": null
-          }
-        ],
-        "color": "default"
-      },
-      "blocks": []
-    },
-    {
-      "object": "block",
-      "id": "14d74d99-f245-800c-b916-ebe8d331d2aa",
-      "parent": {
-        "type": "page_id",
-        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
-      },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [],
-        "color": "default"
-      },
-      "blocks": []
-    },
-    {
-      "object": "block",
-      "id": "14d74d99-f245-8049-bcc6-c65edd786d0d",
-      "parent": {
-        "type": "page_id",
-        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
-      },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
+          },
           {
             "type": "text",
             "text": {
-              "content": "노션프레소",
+              "content": "NotionPresso",
+              "link": {
+                "url": "https://notionpresso.com/ko"
+              }
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "NotionPresso",
+            "href": "https://notionpresso.com/ko"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 사용해요.",
               "link": null
             },
             "annotations": {
@@ -293,7 +257,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "노션프레소",
+            "plain_text": "를 사용해요.",
             "href": null
           }
         ],
@@ -303,13 +267,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-802d-97bb-c03c45aee474",
+      "id": "14d74d99-f245-8079-b55a-f845321d2d98",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_time": "2024-11-29T14:00:00.000Z",
+      "last_edited_time": "2024-11-29T14:39:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -321,22 +285,19 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [],
-        "color": "default"
-      },
+      "type": "divider",
+      "divider": {},
       "blocks": []
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-8065-9a2a-fee45648814c",
+      "id": "14d74d99-f245-80b0-82e9-f3d1733f7169",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_time": "2024-11-29T16:04:00.000Z",
+      "last_edited_time": "2024-11-29T16:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -354,7 +315,7 @@
           {
             "type": "text",
             "text": {
-              "content": "왜 노션 프레소",
+              "content": "왜 NotionPresso를 선택했을까?",
               "link": null
             },
             "annotations": {
@@ -365,7 +326,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "왜 노션 프레소",
+            "plain_text": "왜 NotionPresso를 선택했을까?",
             "href": null
           }
         ],
@@ -376,13 +337,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-80cd-a242-df0e5230f26f",
+      "id": "14d74d99-f245-8055-8d35-fee25312aec6",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_time": "2024-11-29T14:05:00.000Z",
+      "last_edited_time": "2024-11-29T14:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -400,7 +361,7 @@
           {
             "type": "text",
             "text": {
-              "content": "기술 아티클 보다가 오픈 소스 경험에 대해 이야기하는게 흥미로웠음",
+              "content": "어느 날 기술 아티클을 읽다가, ",
               "link": null
             },
             "annotations": {
@@ -411,7 +372,43 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "기술 아티클 보다가 오픈 소스 경험에 대해 이야기하는게 흥미로웠음",
+            "plain_text": "어느 날 기술 아티클을 읽다가, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "오픈 소스 경험",
+              "link": {
+                "url": "https://yozm.wishket.com/magazine/detail/2856/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "오픈 소스 경험",
+            "href": "https://yozm.wishket.com/magazine/detail/2856/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 다룬 글을 보게 됐어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 다룬 글을 보게 됐어요.",
             "href": null
           }
         ],
@@ -421,13 +418,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-801e-b8b7-f412ca6db489",
+      "id": "14d74d99-f245-8027-8c7d-f33a1e7e41f9",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T09:59:00.000Z",
+      "created_time": "2024-11-29T14:07:00.000Z",
+      "last_edited_time": "2024-11-29T16:00:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -445,7 +442,7 @@
           {
             "type": "text",
             "text": {
-              "content": "당시에는 그냥 보고 지나갔었는데",
+              "content": "흥미롭게 읽고 넘겼던 글 이었는데, 알고 보니 글쓰기 모임에 그 오픈 소스 프로젝트의 메인테이너 분이 계시더라고요.",
               "link": null
             },
             "annotations": {
@@ -456,7 +453,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "당시에는 그냥 보고 지나갔었는데",
+            "plain_text": "흥미롭게 읽고 넘겼던 글 이었는데, 알고 보니 글쓰기 모임에 그 오픈 소스 프로젝트의 메인테이너 분이 계시더라고요.",
             "href": null
           }
         ],
@@ -466,13 +463,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-80b3-87d7-f5b559075f71",
+      "id": "14d74d99-f245-80ae-a71c-d6ceb43dfd44",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T09:59:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T14:19:00.000Z",
+      "last_edited_time": "2024-11-29T16:01:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -490,7 +487,7 @@
           {
             "type": "text",
             "text": {
-              "content": "아니, 글쓰기 모임에 메인테이너 분이 계시는 것 아니겠음?",
+              "content": "신기하기도 하고, 노션과 Next.js를 사용하는 것에 관심이 가던 차에 이 도구를 선택하게 됐습니다.",
               "link": null
             },
             "annotations": {
@@ -501,7 +498,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "아니, 글쓰기 모임에 메인테이너 분이 계시는 것 아니겠음?",
+            "plain_text": "신기하기도 하고, 노션과 Next.js를 사용하는 것에 관심이 가던 차에 이 도구를 선택하게 됐습니다.",
             "href": null
           }
         ],
@@ -511,13 +508,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-806b-aca4-f2feefad71f1",
+      "id": "14d74d99-f245-8025-ab88-f406afb840d2",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T10:00:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T14:31:00.000Z",
+      "last_edited_time": "2024-11-29T14:31:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -538,13 +535,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-80c7-94c8-c498de09a21c",
+      "id": "14d74d99-f245-802e-b21a-fd44aedb7abd",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T10:00:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T14:31:00.000Z",
+      "last_edited_time": "2024-11-29T16:01:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -562,7 +559,7 @@
           {
             "type": "text",
             "text": {
-              "content": "이건 운명이다 싶어서 시작함",
+              "content": "게다가 초보자도 따라할 수 있을 정도로 상세히 작성된 튜토리얼에 감명받아서, 꼭 한번 써봐야겠다 싶었어요.",
               "link": null
             },
             "annotations": {
@@ -573,7 +570,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "이건 운명이다 싶어서 시작함",
+            "plain_text": "게다가 초보자도 따라할 수 있을 정도로 상세히 작성된 튜토리얼에 감명받아서, 꼭 한번 써봐야겠다 싶었어요.",
             "href": null
           }
         ],
@@ -583,13 +580,129 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-8016-88d2-c2079996f849",
+      "id": "14d74d99-f245-8059-aec6-d029be9047ba",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T10:00:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T14:28:00.000Z",
+      "last_edited_time": "2024-11-29T14:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80f5-b371-f9654db8f65c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T16:04:00.000Z",
+      "last_edited_time": "2024-11-29T16:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "장점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "장점",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80ce-8f80-f52e1a3a6617",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T16:04:00.000Z",
+      "last_edited_time": "2024-11-29T16:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. 빠른 라이브러리 적용",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. 빠른 라이브러리 적용",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80cb-973d-d92fac998b7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T14:48:00.000Z",
+      "last_edited_time": "2024-11-29T16:01:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -607,7 +720,7 @@
           {
             "type": "text",
             "text": {
-              "content": "+",
+              "content": "일단 NotionPresso는 전체적인 구조가 직관적이라 이해하기 쉬웠어요.",
               "link": null
             },
             "annotations": {
@@ -618,7 +731,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "+",
+            "plain_text": "일단 NotionPresso는 전체적인 구조가 직관적이라 이해하기 쉬웠어요.",
             "href": null
           }
         ],
@@ -628,13 +741,13 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-8028-a9a7-cfd2208d9ff3",
+      "id": "14d74d99-f245-8002-91ac-cd61b11cf8a1",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T10:00:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T16:01:00.000Z",
+      "last_edited_time": "2024-11-29T16:01:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -652,7 +765,7 @@
           {
             "type": "text",
             "text": {
-              "content": "코딩 초보자도 맨땅에 헤딩 할 수 있을 정도로 상세한 튜토리얼이 있어서 감명을 받고 안쓸 수가 없었음.",
+              "content": "그리고 Cloudflare Pages를 활용한 배포도 간단했습니다.",
               "link": null
             },
             "annotations": {
@@ -663,7 +776,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "코딩 초보자도 맨땅에 헤딩 할 수 있을 정도로 상세한 튜토리얼이 있어서 감명을 받고 안쓸 수가 없었음.",
+            "plain_text": "그리고 Cloudflare Pages를 활용한 배포도 간단했습니다.",
             "href": null
           }
         ],
@@ -673,13 +786,58 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-80fd-a648-e3f569d9c6e0",
+      "id": "14d74d99-f245-808d-9b70-e923bfc407fd",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T10:00:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T15:02:00.000Z",
+      "last_edited_time": "2024-11-29T16:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "위 언급한 튜토리얼처럼 문서화도 잘 되어 있어서 금방 익숙해질 수 있었어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "위 언급한 튜토리얼처럼 문서화도 잘 되어 있어서 금방 익숙해질 수 있었어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8025-b305-d6465e49cba3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T16:04:00.000Z",
+      "last_edited_time": "2024-11-29T16:04:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
@@ -700,13 +858,944 @@
     },
     {
       "object": "block",
-      "id": "14d74d99-f245-8092-b299-db1b75d5aadb",
+      "id": "14d74d99-f245-8084-b9c1-f8c18c72a51a",
       "parent": {
         "type": "page_id",
         "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
       },
-      "created_time": "2024-11-29T10:00:00.000Z",
-      "last_edited_time": "2024-11-29T10:00:00.000Z",
+      "created_time": "2024-11-29T14:48:00.000Z",
+      "last_edited_time": "2024-11-29T16:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. 노션을 CMS로 활용",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. 노션을 CMS로 활용",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80ce-bb66-cdc1f7bafc7c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T14:49:00.000Z",
+      "last_edited_time": "2024-11-29T16:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "생각보다 큰 장점이에요.\n그 동안 여러 노트 앱(Google Keep, SimpleNote, Jopline 등)을 써봤지만, 노션만큼 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "생각보다 큰 장점이에요.\n그 동안 여러 노트 앱(Google Keep, SimpleNote, Jopline 등)을 써봤지만, 노션만큼 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "디바이스 간 동기화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "디바이스 간 동기화",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 잘 지원하고,\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 잘 지원하고,\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "매끄러운 에디터 경험",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "매끄러운 에디터 경험",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 제공하는 도구는 찾기 어려웠어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 제공하는 도구는 찾기 어려웠어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8085-acd3-f730c075be4e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:20:00.000Z",
+      "last_edited_time": "2024-11-29T16:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그리고 노션이 무제한 스토리지를 제공한다는 점도 비용 부담 없이 사용할 수 있어 좋더라구요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그리고 노션이 무제한 스토리지를 제공한다는 점도 비용 부담 없이 사용할 수 있어 좋더라구요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8089-975d-d52cff475b68",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:20:00.000Z",
+      "last_edited_time": "2024-11-29T15:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8026-8b3b-dbdfea731b2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T16:05:00.000Z",
+      "last_edited_time": "2024-11-29T16:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "단점",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "단점",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80b5-ac8c-fc6c0ec6a6da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:39:00.000Z",
+      "last_edited_time": "2024-11-29T16:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "사실 아직 오래 사용해보지 않아서 큰 단점은 발견하지 못했어요.\n그래도 굳이 꼽자면 두 가지 정도가 있겠네요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "사실 아직 오래 사용해보지 않아서 큰 단점은 발견하지 못했어요.\n그래도 굳이 꼽자면 두 가지 정도가 있겠네요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8058-b18b-d50708b325f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T16:05:00.000Z",
+      "last_edited_time": "2024-11-29T16:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. notion-data 관리의 어려움",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. notion-data 관리의 어려움",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80d7-81fc-c0a184e8d56c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:33:00.000Z",
+      "last_edited_time": "2024-11-29T16:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "@notionpresso/cli 를 사용해 추출한 JSON 데이터를 관리하는 게 쉽지 않아요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "@notionpresso/cli 를 사용해 추출한 JSON 데이터를 관리하는 게 쉽지 않아요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80e2-815b-cf96871d578c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:49:00.000Z",
+      "last_edited_time": "2024-11-29T16:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "페이지와 그 블록 정보를 담고 있는 JSON 파일은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "페이지와 그 블록 정보를 담고 있는 JSON 파일은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "제목이 노션 page id",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "제목이 노션 page id",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "라 구분하기 힘들고,",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "라 구분하기 힘들고,",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80b7-bba1-cf2958caf711",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:50:00.000Z",
+      "last_edited_time": "2024-11-29T15:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/14d74d99-f245-80e8-8099-f22584c243bb/image_1.png",
+          "expiry_time": "2024-11-29T17:11:25.949Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80ab-a9f2-f7eeb2f790a1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:46:00.000Z",
+      "last_edited_time": "2024-11-29T16:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그 내부 내용도 한눈에 파악하기 어려워",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그 내부 내용도 한눈에 파악하기 어려워",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 체계적으로 정리하지 않으면 금방 혼잡해질 수 있을 것 같아요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 체계적으로 정리하지 않으면 금방 혼잡해질 수 있을 것 같아요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80df-ac2b-f6c73373d4f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:47:00.000Z",
+      "last_edited_time": "2024-11-29T15:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8060-85ac-d1f1071d0451",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T12:48:00.000Z",
+      "last_edited_time": "2024-11-29T15:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "노션에 익숙해져야함",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "노션에 익숙해져야함",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80fe-9bd7-ec4ec0fbe9ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:30:00.000Z",
+      "last_edited_time": "2024-11-29T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "억지로 찾은 단점이긴 한데, 노션을 사용해본 적이 없다면 적응 기간이 필요할 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "억지로 찾은 단점이긴 한데, 노션을 사용해본 적이 없다면 적응 기간이 필요할 수 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80c3-82fe-ec2aa08d995e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:52:00.000Z",
+      "last_edited_time": "2024-11-29T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만 노션은 워낙 익히기 쉬운 도구라 큰 문제는 아닐 거예요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만 노션은 워낙 익히기 쉬운 도구라 큰 문제는 아닐 거예요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8004-a7b7-f145fa7c9e4e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:52:00.000Z",
+      "last_edited_time": "2024-11-29T15:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8045-9394-eab8f3ddc9d2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T12:50:00.000Z",
+      "last_edited_time": "2024-11-29T12:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "결론",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "결론",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8072-9597-c4e6b63dfe25",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:52:00.000Z",
+      "last_edited_time": "2024-11-29T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "만약 웹 개발에 대한 기본 지식이 있고, 커스텀 블로그를 만들고 싶은 열정이 있다면 NotionPresso를 강력 추천드려요!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "만약 웹 개발에 대한 기본 지식이 있고, 커스텀 블로그를 만들고 싶은 열정이 있다면 NotionPresso를 강력 추천드려요!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-8029-a70c-daee123622dc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:53:00.000Z",
+      "last_edited_time": "2024-11-29T15:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-80ce-8e9f-c006a480abb1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T15:53:00.000Z",
+      "last_edited_time": "2024-11-29T16:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "저도 앞으로 이 블로그에 Giscus를 활용한 댓글 시스템과 Google Analytics 등을 연동하는 등, 제 입맛에 맞게 커스터마이징 해볼 계획이에요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "저도 앞으로 이 블로그에 Giscus를 활용한 댓글 시스템과 Google Analytics 등을 연동하는 등, 제 입맛에 맞게 커스터마이징 해볼 계획이에요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "14d74d99-f245-804d-9732-fa922deea1fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "14d74d99-f245-80e8-8099-f22584c243bb"
+      },
+      "created_time": "2024-11-29T16:10:00.000Z",
+      "last_edited_time": "2024-11-29T16:10:00.000Z",
       "created_by": {
         "object": "user",
         "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
