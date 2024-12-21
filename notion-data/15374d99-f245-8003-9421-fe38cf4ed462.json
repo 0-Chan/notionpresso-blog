@@ -1,0 +1,2317 @@
+{
+  "object": "page",
+  "id": "15374d99-f245-8003-9421-fe38cf4ed462",
+  "created_time": "2024-12-05T10:46:00.000Z",
+  "last_edited_time": "2024-12-21T06:52:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "page_id",
+    "page_id": "15374d99-f245-80ac-b675-ce7f5085c5af"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tailwind CSS v4.0 미리보기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tailwind CSS v4.0 미리보기",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Tailwind-CSS-v4-0-15374d99f24580039421fe38cf4ed462",
+  "public_url": null,
+  "request_id": "c7e92a84-526e-43e1-98d7-9b42a859d3bd",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "16374d99-f245-800c-bff0-db757dd653a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:30:00.000Z",
+      "last_edited_time": "2024-12-21T06:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/notion-data/15374d99-f245-8003-9421-fe38cf4ed462/image_1.png",
+          "expiry_time": "2024-12-21T07:52:09.712Z"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8036-9873-dbe98b5a8735",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:00:00.000Z",
+      "last_edited_time": "2024-12-21T06:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2023년 부터 준비되었던 TailwindCSS v.4.0이 지난 11월에 첫 베타 버전이 공개 되었습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2023년 부터 준비되었던 TailwindCSS v.4.0이 지난 11월에 첫 베타 버전이 공개 되었습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-804c-9665-c683725f7ff1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T05:59:00.000Z",
+      "last_edited_time": "2024-12-21T06:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rust로 작성된 Oxide 엔진을 통해 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rust로 작성된 Oxide 엔진을 통해 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "성능을 향상",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "성능을 향상",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하고 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하고 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "설정법을 간소화",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "설정법을 간소화",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "하도록 설계된 v4.0의 다양한 개선 사항을 이전 버전인 v3.0과 비교하여 설명 드리려합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하도록 설계된 v4.0의 다양한 개선 사항을 이전 버전인 v3.0과 비교하여 설명 드리려합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80f8-b923-dd9ea0bd2d1a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:00:00.000Z",
+      "last_edited_time": "2024-12-21T06:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8032-a1e9-e613b9cd3197",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:08:00.000Z",
+      "last_edited_time": "2024-12-21T06:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1. Oxide 엔진",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1. Oxide 엔진",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80c6-b4db-e2055d876409",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:08:00.000Z",
+      "last_edited_time": "2024-12-21T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "성능 향상은 기존 TypeScript로만 작성된 엔진을 부분적으로 Rust 기반으로 변경한 것에서 기인합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "성능 향상은 기존 TypeScript로만 작성된 엔진을 부분적으로 Rust 기반으로 변경한 것에서 기인합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80e1-a927-f1b753111b1f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:11:00.000Z",
+      "last_edited_time": "2024-12-21T06:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게 새로이 작성된 Oxide 엔진의 특징은 다음과 같습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게 새로이 작성된 Oxide 엔진의 특징은 다음과 같습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-8058-ad29-eb242a01fa78",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T10:54:00.000Z",
+      "last_edited_time": "2024-12-21T06:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "특징",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "특징",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "15374d99-f245-80ab-b566-f8d28caede63",
+          "parent": {
+            "type": "block_id",
+            "block_id": "15374d99-f245-8058-ad29-eb242a01fa78"
+          },
+          "created_time": "2024-12-05T10:54:00.000Z",
+          "last_edited_time": "2024-12-21T06:19:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "더 빨라진 speed!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "더 빨라진 speed!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "16374d99-f245-805c-a7f1-d597ebdf3111",
+              "parent": {
+                "type": "block_id",
+                "block_id": "15374d99-f245-80ab-b566-f8d28caede63"
+              },
+              "created_time": "2024-12-21T06:13:00.000Z",
+              "last_edited_time": "2024-12-21T06:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "table",
+              "table": {
+                "table_width": 4,
+                "has_column_header": true,
+                "has_row_header": true
+              },
+              "blocks": [
+                {
+                  "object": "block",
+                  "id": "83e39140-6f2a-409d-b30b-bd7d783d750a",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "16374d99-f245-805c-a7f1-d597ebdf3111"
+                  },
+                  "created_time": "2024-12-21T06:13:00.000Z",
+                  "last_edited_time": "2024-12-21T06:15:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "table_row",
+                  "table_row": {
+                    "cells": [
+                      [],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "v3.4",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "v3.4",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "v4.0",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "v4.0",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "속도 증감분",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "속도 증감분",
+                          "href": null
+                        }
+                      ]
+                    ]
+                  },
+                  "blocks": []
+                },
+                {
+                  "object": "block",
+                  "id": "cdbbc323-a8f9-4f1f-bae1-e310166d6845",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "16374d99-f245-805c-a7f1-d597ebdf3111"
+                  },
+                  "created_time": "2024-12-21T06:13:00.000Z",
+                  "last_edited_time": "2024-12-21T06:16:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "table_row",
+                  "table_row": {
+                    "cells": [
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Full build",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Full build",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "378 ms",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "378 ms",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "100 ms",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "100 ms",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "3.78 배",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "3.78 배",
+                          "href": null
+                        }
+                      ]
+                    ]
+                  },
+                  "blocks": []
+                },
+                {
+                  "object": "block",
+                  "id": "a6882600-aafd-4239-8a22-01f0496e33ce",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "16374d99-f245-805c-a7f1-d597ebdf3111"
+                  },
+                  "created_time": "2024-12-21T06:13:00.000Z",
+                  "last_edited_time": "2024-12-21T06:16:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "table_row",
+                  "table_row": {
+                    "cells": [
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Incremental rebuild",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Incremental rebuild",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "44 ms",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "44 ms",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "5 ms",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "5 ms",
+                          "href": null
+                        }
+                      ],
+                      [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "8.8 배",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "8.8 배",
+                          "href": null
+                        }
+                      ]
+                    ]
+                  },
+                  "blocks": []
+                }
+              ]
+            },
+            {
+              "object": "block",
+              "id": "16374d99-f245-8014-8b75-cf1cd6c0333d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "15374d99-f245-80ab-b566-f8d28caede63"
+              },
+              "created_time": "2024-12-21T06:19:00.000Z",
+              "last_edited_time": "2024-12-21T06:19:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "(Catalyst UI kit 기준)",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "(Catalyst UI kit 기준)",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "15374d99-f245-80ca-a434-d36917090194",
+          "parent": {
+            "type": "block_id",
+            "block_id": "15374d99-f245-8058-ad29-eb242a01fa78"
+          },
+          "created_time": "2024-12-05T10:57:00.000Z",
+          "last_edited_time": "2024-12-21T06:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "35% 가벼운 설치 크기",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "35% 가벼운 설치 크기",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "15374d99-f245-806c-846b-c6d566bc3e69",
+          "parent": {
+            "type": "block_id",
+            "block_id": "15374d99-f245-8058-ad29-eb242a01fa78"
+          },
+          "created_time": "2024-12-05T10:59:00.000Z",
+          "last_edited_time": "2024-12-21T06:21:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Rust 도입",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Rust 도입",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "15374d99-f245-80d0-882d-cb463feb301f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "15374d99-f245-806c-846b-c6d566bc3e69"
+              },
+              "created_time": "2024-12-05T10:59:00.000Z",
+              "last_edited_time": "2024-12-21T05:22:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "병렬화가 가능하며 연산량이 많은 부분만 Rust로 마이그레이션",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "병렬화가 가능하며 연산량이 많은 부분만 Rust로 마이그레이션",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "15374d99-f245-8050-849e-dae49d58b524",
+              "parent": {
+                "type": "block_id",
+                "block_id": "15374d99-f245-806c-846b-c6d566bc3e69"
+              },
+              "created_time": "2024-12-05T10:59:00.000Z",
+              "last_edited_time": "2024-12-05T11:00:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "TypeScript로 작성된 핵심 부분은 유지",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "TypeScript로 작성된 핵심 부분은 유지",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            }
+          ]
+        },
+        {
+          "object": "block",
+          "id": "16374d99-f245-8041-998d-fbbae4d2cafd",
+          "parent": {
+            "type": "block_id",
+            "block_id": "15374d99-f245-8058-ad29-eb242a01fa78"
+          },
+          "created_time": "2024-12-21T06:21:00.000Z",
+          "last_edited_time": "2024-12-21T06:26:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "줄어든 의존성",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "줄어든 의존성",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "16374d99-f245-806e-95e3-d6fa04628f6e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "16374d99-f245-8041-998d-fbbae4d2cafd"
+              },
+              "created_time": "2024-12-21T06:22:00.000Z",
+              "last_edited_time": "2024-12-21T06:22:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "이제 Lightning CSS에만 의존성",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "이제 Lightning CSS에만 의존성",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": []
+            },
+            {
+              "object": "block",
+              "id": "16374d99-f245-803f-8ca8-e6536ccf9ac3",
+              "parent": {
+                "type": "block_id",
+                "block_id": "16374d99-f245-8041-998d-fbbae4d2cafd"
+              },
+              "created_time": "2024-12-21T06:22:00.000Z",
+              "last_edited_time": "2024-12-21T06:24:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": true,
+              "archived": false,
+              "in_trash": false,
+              "type": "bulleted_list_item",
+              "bulleted_list_item": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "기존 PostCSS, autoprefixer 등의 의존성이 제거",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "기존 PostCSS, autoprefixer 등의 의존성이 제거",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              },
+              "blocks": [
+                {
+                  "object": "block",
+                  "id": "16374d99-f245-8095-bea9-f4cb30ac241c",
+                  "parent": {
+                    "type": "block_id",
+                    "block_id": "16374d99-f245-803f-8ca8-e6536ccf9ac3"
+                  },
+                  "created_time": "2024-12-21T06:24:00.000Z",
+                  "last_edited_time": "2024-12-21T06:24:00.000Z",
+                  "created_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "last_edited_by": {
+                    "object": "user",
+                    "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+                  },
+                  "has_children": false,
+                  "archived": false,
+                  "in_trash": false,
+                  "type": "bulleted_list_item",
+                  "bulleted_list_item": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Install 방법과 설정 방법이 간단해짐 ",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Install 방법과 설정 방법이 간단해짐 ",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "blocks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8079-bc85-caaad06ea50f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:12:00.000Z",
+      "last_edited_time": "2024-12-21T06:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-802e-ab81-f0df0c1f3798",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:12:00.000Z",
+      "last_edited_time": "2024-12-21T06:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇듯 다양한 기능을 포함하는 Oxide 엔진은 원래 v.3 버전 대에 출시하려 했으나,\n기존 버전 호환성과 같은 문제로 새로운 v.4.0으로 출시하게 되었다고 합니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇듯 다양한 기능을 포함하는 Oxide 엔진은 원래 v.3 버전 대에 출시하려 했으나,\n기존 버전 호환성과 같은 문제로 새로운 v.4.0으로 출시하게 되었다고 합니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-808c-820f-f51b3294688c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:26:00.000Z",
+      "last_edited_time": "2024-12-21T06:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2. 간소화된 설정법",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2. 간소화된 설정법",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80bd-ae28-d7cb7a0bf175",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:31:00.000Z",
+      "last_edited_time": "2024-12-21T06:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기존 v3.4 버전에서 거의 대부분의 설정은 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기존 v3.4 버전에서 거의 대부분의 설정은 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "tailwind.config.js",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "tailwind.config.js",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 파일에서 이루어졌습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 파일에서 이루어졌습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8027-93e7-d65ce36cc5c2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:33:00.000Z",
+      "last_edited_time": "2024-12-21T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 안에서 디자인 토큰, Tailwind가 체크해야할 파일 목록 등등을 일일이 설정 해주었어야 하는데요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 안에서 디자인 토큰, Tailwind가 체크해야할 파일 목록 등등을 일일이 설정 해주었어야 하는데요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8039-8ee4-d5b0da39333b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:34:00.000Z",
+      "last_edited_time": "2024-12-21T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-802c-b12a-d775b7d315ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:34:00.000Z",
+      "last_edited_time": "2024-12-21T06:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제는 다음과 같은 차이점이 있습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제는 다음과 같은 차이점이 있습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-809e-a1ed-cf958c96c7ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:35:00.000Z",
+      "last_edited_time": "2024-12-21T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Built-in 파일 목록 체크",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Built-in 파일 목록 체크",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "16374d99-f245-8081-a17a-e941eb8d6460",
+          "parent": {
+            "type": "block_id",
+            "block_id": "16374d99-f245-809e-a1ed-cf958c96c7ee"
+          },
+          "created_time": "2024-12-21T06:37:00.000Z",
+          "last_edited_time": "2024-12-21T06:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": true,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기존에 content 항목에 설정 해주어야 했던 것을 이제는 자동으로 처리 해줍니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기존에 content 항목에 설정 해주어야 했던 것을 이제는 자동으로 처리 해줍니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": [
+            {
+              "object": "block",
+              "id": "16374d99-f245-8030-ad3b-f2796b5d8f15",
+              "parent": {
+                "type": "block_id",
+                "block_id": "16374d99-f245-8081-a17a-e941eb8d6460"
+              },
+              "created_time": "2024-12-21T06:37:00.000Z",
+              "last_edited_time": "2024-12-21T06:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+              },
+              "has_children": false,
+              "archived": false,
+              "in_trash": false,
+              "type": "image",
+              "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/notion-data/15374d99-f245-8003-9421-fe38cf4ed462/image_2.png",
+                  "expiry_time": "2024-12-21T07:52:10.473Z"
+                }
+              },
+              "blocks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80b0-a19a-df594ec521e5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:38:00.000Z",
+      "last_edited_time": "2024-12-21T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Built-in vendor prefixing",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Built-in vendor prefixing",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "16374d99-f245-80e9-916a-c481603d1154",
+          "parent": {
+            "type": "block_id",
+            "block_id": "16374d99-f245-80b0-a19a-df594ec521e5"
+          },
+          "created_time": "2024-12-21T06:39:00.000Z",
+          "last_edited_time": "2024-12-21T06:39:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기존에 autoprefixer를 설치했어야 하는 것이 이제는 내장됩니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기존에 autoprefixer를 설치했어야 하는 것이 이제는 내장됩니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8019-b65e-efb2d12f7901",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:40:00.000Z",
+      "last_edited_time": "2024-12-21T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Built-in nesting",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Built-in nesting",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "16374d99-f245-803f-bf9b-d77f39e2a5ad",
+          "parent": {
+            "type": "block_id",
+            "block_id": "16374d99-f245-8019-b65e-efb2d12f7901"
+          },
+          "created_time": "2024-12-21T06:41:00.000Z",
+          "last_edited_time": "2024-12-21T06:41:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "중첩된 CSS이 플러그인 없이 작동합니다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "중첩된 CSS이 플러그인 없이 작동합니다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80d9-8704-ddac6f6e2f88",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:43:00.000Z",
+      "last_edited_time": "2024-12-21T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-804b-bea4-dd4e8c82cb64",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:43:00.000Z",
+      "last_edited_time": "2024-12-21T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 밖에도 다양한 기능이 추가되고 변경 되었지만, 결론적으로 모든 방향성이 개발자 경험을 단순화하고 조금더 네이티브에 가깝게 CSS를 처리하는 도구로 발전하는 것 같습니다. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 밖에도 다양한 기능이 추가되고 변경 되었지만, 결론적으로 모든 방향성이 개발자 경험을 단순화하고 조금더 네이티브에 가깝게 CSS를 처리하는 도구로 발전하는 것 같습니다. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80a4-90b8-d00d1ce92fc3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:46:00.000Z",
+      "last_edited_time": "2024-12-21T06:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-8043-8b5b-e634294947d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:46:00.000Z",
+      "last_edited_time": "2024-12-21T06:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2024년 3월에 알파 버전이 출시되었고, 같은 해 11월에 베타 버전이 출시 되었습니다.\n같은 속도라면 아마 내년 2~3분기 즈음에 정식 출시가 되지 않을까 추측이 되는데요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2024년 3월에 알파 버전이 출시되었고, 같은 해 11월에 베타 버전이 출시 되었습니다.\n같은 속도라면 아마 내년 2~3분기 즈음에 정식 출시가 되지 않을까 추측이 되는데요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "16374d99-f245-80bc-b2b0-d092cd6dbcca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-21T06:47:00.000Z",
+      "last_edited_time": "2024-12-21T06:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앞으로 다가올 TailwindCSS 메이저 업데이트에 감이 잡히셨으면 좋겠습니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앞으로 다가올 TailwindCSS 메이저 업데이트에 감이 잡히셨으면 좋겠습니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "9d084764-f0d0-4408-872c-04560a6bf7d5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-06T01:07:00.000Z",
+      "last_edited_time": "2024-12-06T01:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-801c-bb3b-f51943a26523",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T10:54:00.000Z",
+      "last_edited_time": "2024-12-05T10:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ref.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ref.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-80d4-bc88-f2251ae24a29",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T10:54:00.000Z",
+      "last_edited_time": "2024-12-05T10:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://tailwindcss.com/blog/tailwindcss-v4-alpha",
+                "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
+                "icon_url": "https://tailwindcss.com/favicons/apple-touch-icon.png?v=3",
+                "description": "We just tagged the first public v4.0.0-alpha so you can start experimenting with it and help us get to a stable release later this year.",
+                "link_provider": "tailwindcss",
+                "thumbnail_url": "https://tailwindcss.com/_next/static/media/card.7fed5563.jpg"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://tailwindcss.com/blog/tailwindcss-v4-alpha",
+            "href": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-806b-8525-dc341391a521",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T11:00:00.000Z",
+      "last_edited_time": "2024-12-05T11:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://tailwindcss.com/blog/tailwindcss-v4-beta",
+                "title": "Tailwind CSS v4.0 Beta 1 - Tailwind CSS",
+                "icon_url": "https://tailwindcss.com/favicons/apple-touch-icon.png?v=3",
+                "description": "After a long alpha period, we're excited to release the first public beta of Tailwind CSS v4.0.",
+                "link_provider": "tailwindcss",
+                "thumbnail_url": "https://tailwindcss.com/_next/static/media/card.d69e3d8c.jpg"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://tailwindcss.com/blog/tailwindcss-v4-beta",
+            "href": "https://tailwindcss.com/blog/tailwindcss-v4-beta"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-80ed-87f2-f12192b7ad2d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T11:00:00.000Z",
+      "last_edited_time": "2024-12-05T11:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "mention",
+            "mention": {
+              "type": "link_mention",
+              "link_mention": {
+                "href": "https://www.youtube.com/watch?v=CLkxRnRQtDE&t=2146s",
+                "title": "Tailwind Connect 2023 — Keynote",
+                "padding": 56,
+                "icon_url": "https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon_144x144.png",
+                "iframe_url": "https://www.youtube.com/embed/CLkxRnRQtDE?rel=0&start=2146",
+                "description": "The keynote from Tailwind Connect 2023, our first-ever live event that took place on June 20th, 2023, featuring presentations from Adam Wathan, Sam Selikoff, and Steve Schoger.\n\nRead the recap on our blog: https://tailwindcss.com/blog/2023-07-18-tailwind-connect-2023-recap\n\n00:00 Introduction\n10:00 Tailwind CSS for the modern web\n35:46 Oxide, the next evolution of Tailwind CSS\n58:30 Catalyst, a React UI kit for Tailwind CSS\n1:10:09 Designing Catalyst\n1:28:28 Tricks from Catalyst",
+                "link_author": "Tailwind Labs",
+                "link_provider": "YouTube",
+                "thumbnail_url": "https://i.ytimg.com/vi/CLkxRnRQtDE/maxresdefault.jpg"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.youtube.com/watch?v=CLkxRnRQtDE&t=2146s",
+            "href": "https://www.youtube.com/watch?v=CLkxRnRQtDE&t=2146s"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-806e-ba24-c39a2cd6a81c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T11:00:00.000Z",
+      "last_edited_time": "2024-12-05T11:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=CLkxRnRQtDE&t=2146s"
+        }
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "15374d99-f245-8075-94ff-c4afae8c7e43",
+      "parent": {
+        "type": "page_id",
+        "page_id": "15374d99-f245-8003-9421-fe38cf4ed462"
+      },
+      "created_time": "2024-12-05T11:00:00.000Z",
+      "last_edited_time": "2024-12-05T11:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "fbd63dcf-7356-46a2-8a5b-5bcb19bca791"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

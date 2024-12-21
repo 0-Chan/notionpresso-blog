@@ -1,8 +1,17 @@
 import post1 from '../notion-data/126ce18c-fd83-8023-9ad1-d0e1809b21c3.json'
 import post2 from '../notion-data/127ce18c-fd83-805c-bebd-d6772e18bf02.json'
 import newPost from '../notion-data/14d74d99-f245-80e8-8099-f22584c243bb.json'
+import secondPost from '../notion-data/15374d99-f245-8003-9421-fe38cf4ed462.json'
 
 const posts = [
+  {
+    title: 'Tailwind CSS v4.0 미리보기',
+    slug: 'tailwindcss-v4-preview',
+    content: secondPost,
+    date: '2024-12-21',
+    description: 'Tailwind CSS v4.0에는 무엇이 달라졌을까?',
+    image: undefined,
+  },
   {
     title: '1 시간 만에 노션과 Next.js로 블로그 만들기',
     slug: 'create-blog-in-an-hour-with-notionpresso',
@@ -31,13 +40,13 @@ const posts = [
   },
 ] as Post[]
 
-export default posts;
+export default posts
 
 export type Post = {
-  title: string;
-  slug: string;
-  content: { blocks: any[] };
-  date: string;
-  description: string;
-  image?: string;
-};
+  title: string
+  slug: string
+  content: { blocks: any[] }
+  date: string
+  description: string
+  image?: string
+}
